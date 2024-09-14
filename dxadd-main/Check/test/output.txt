@@ -1,0 +1,4 @@
+
+抄袭版论文的文件的绝对路径：D:\\develop\\dxadd-main\\dxadd-main\\Check\\test\\orig_0.8_dis_15.txt
+论文原文的绝对路径：D:\develop\dxadd-main\dxadd-main\Check\test\orig.txt
+论文重复率为：0.61
